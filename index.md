@@ -38,9 +38,11 @@ The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** f
 #### Gravitational Waves
 - Compact binary coalescences
 - Cosmology with standard sirens
+
 #### Plusar
 - Neutron star equation of state
 - Binary evolution
+  
 #### Multi-messenger Astronomy
 - GW–EM counterparts
 - Neutrinos and transients
