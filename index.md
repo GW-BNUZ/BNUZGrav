@@ -19,15 +19,18 @@ The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** f
 - Tests of gravity and cosmology
 
 # Group Members
-### Faculty
+#### Faculty
 - **Prof. Zhu**  
   Associate Researcher  
   Email: xxx@bnuz.edu.cn
-### Postdoctoral Researchers
+  
+#### Postdoctoral Researchers
 - Dr. LI Z
-### PhD Students
+  
+#### PhD Students
 - XXX (2023–)
-### MSc Students
+  
+#### MSc Students
 - XXX (2024–)
 
 # Research Areas
