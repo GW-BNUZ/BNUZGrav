@@ -31,6 +31,7 @@ The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** f
 - XXX (2024–)
 
 # Research Areas
+
 #### Gravitational Waves
 - Compact binary coalescences
 - Cosmology with standard sirens
