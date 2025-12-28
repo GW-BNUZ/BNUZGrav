@@ -42,11 +42,8 @@ The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** f
 - Neutrinos and transients
 
 # Publications
-1. **Author**, et al.  
-   *Title*, Journal **Volume**, Page (Year).  
-   [arXiv:xxxx.xxxxx]
-2. **Author**, et al.  
-   *Title*, Journal **Volume**, Page (Year).
+1. **Author**, et al. *Title*, Journal **Volume**, Page (Year).[arXiv:xxxx.xxxxx]
+2. **Author**, et al. *Title*, Journal **Volume**, Page (Year).
 
 ## welcome applications for:
 - PhD and MSc students
@@ -58,5 +55,5 @@ The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** f
 **BNUZ Gravity Group**  
 Beijing Normal University, Zhuhai  
 
-Email: xxx@bnuz.edu.cn
+Email: xxx@bnuz.edu.cn;
 phone: +86 1xx 
