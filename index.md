@@ -35,20 +35,6 @@ The **Gravity Research Group** at **[Beijing Normal University, Zhuhai (BNUZ)](h
 #### MSc Students
 - XXX (2024–)
 
-# Research Areas
-
-#### Gravitational Waves
-- Compact binary coalescences
-- Cosmology with standard sirens
-
-#### Plusar
-- Neutron star equation of state
-- Binary evolution
-  
-#### Multi-messenger Astronomy
-- GW–EM counterparts
-- Neutrinos and transients
-
 # Publications
 1. **Author**, et al. *Title*, Journal **Volume**, Page (Year).**[arXiv:2507.15701](https://arxiv.org/abs/2507.15701)**
 2. **Author**, et al. *Title*, Journal **Volume**, Page (Year).
@@ -60,7 +46,6 @@ The **Gravity Research Group** at **[Beijing Normal University, Zhuhai (BNUZ)](h
 -xxx@bnuz.edu.cn
 
 # Contact us
-**BNUZ Gravity Group**  
-- Beijing Normal University, Zhuhai.
+- **[Beijing Normal University, Zhuhai (BNUZ)](https://www.bnuzh.edu.cn/)**.
 - Our Chinese website **[here](https://zkgyy.bnu.edu.cn/yjjg/ylbyyzxsys/index.htm)** .
 - Email: xxx@bnuz.edu.cn; phone: +86 1xx 
