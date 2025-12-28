@@ -60,5 +60,5 @@ The **Gravity Research Group** at **[Beijing Normal University, Zhuhai (BNUZ)](h
 ## Contact
 **BNUZ Gravity Group**  
 - Beijing Normal University, Zhuhai.
-- Our Chinese website **[here](https://zkgyy.bnu.edu.cn/yjjg/ylbyyzxsys/index.htm)**
+- Our Chinese website **[here](https://zkgyy.bnu.edu.cn/yjjg/ylbyyzxsys/index.htm)** .
 - Email: xxx@bnuz.edu.cn; phone: +86 1xx 
