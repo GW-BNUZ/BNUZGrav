@@ -53,13 +53,13 @@ The **Gravity Research Group** at **[Beijing Normal University, Zhuhai (BNUZ)](h
 1. **Author**, et al. *Title*, Journal **Volume**, Page (Year).**[arXiv:2507.15701](https://arxiv.org/abs/2507.15701)**
 2. **Author**, et al. *Title*, Journal **Volume**, Page (Year).
 
-## welcome applications for:
+# Welcome applications for
 - PhD and MSc students
 - Postdoctoral researchers
 - Interested candidates should contact:
 -xxx@bnuz.edu.cn
 
-## Contact
+# Contact us
 **BNUZ Gravity Group**  
 - Beijing Normal University, Zhuhai.
 - Our Chinese website **[here](https://zkgyy.bnu.edu.cn/yjjg/ylbyyzxsys/index.htm)** .
