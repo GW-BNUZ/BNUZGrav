@@ -7,13 +7,67 @@ title: BNUZ Gravity Research Group
 
 The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** focuses on fundamental problems in gravity, gravitational waves, compact objects, and multi-messenger astrophysics.
 
+## News
+- 2025-12-20: group meeting "cosmology and H0".
+- 2025: Our group website is officially launched.
+- 2024: New students joined the group.
+
 ## Research Interests
 - Gravitational-wave astronomy
 - Compact objects (neutron stars and black holes)
 - Multi-messenger astrophysics
 - Tests of gravity and cosmology
 
-## News
-- 2025: Our group website is officially launched.
-- 2024: New students joined the group.
+## Group Members
 
+### Faculty
+- **Prof. Zhu**  
+  Associate Researcher  
+  Email: xxx@bnuz.edu.cn
+
+### Postdoctoral Researchers
+- Dr. LI Z
+
+### PhD Students
+- XXX (2023–)
+
+### MSc Students
+- XXX (2024–)
+
+## Research Areas
+
+### Gravitational Waves
+- Compact binary coalescences
+- Cosmology with standard sirens
+
+### Plusar
+- Neutron star equation of state
+- Binary evolution
+
+### Multi-messenger Astronomy
+- GW–EM counterparts
+- Neutrinos and transients
+
+
+## Publications
+1. **Author**, et al.  
+   *Title*, Journal **Volume**, Page (Year).  
+   [arXiv:xxxx.xxxxx]
+
+2. **Author**, et al.  
+   *Title*, Journal **Volume**, Page (Year).
+
+## welcome applications for:
+- PhD students
+- MSc students
+- Postdoctoral researchers
+
+-Interested candidates should contact:
+-xxx@bnuz.edu.cn
+
+## Contact
+**BNUZ Gravity Group**  
+Beijing Normal University, Zhuhai  
+
+Email: xxx@bnuz.edu.cn
+phone: +86 1xx 
