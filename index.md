@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Home
+title: BNUZ Gravity Research Group
 ---
 
-# BNUZ Gravity Group
+## BNUZ Gravity Group
 
-The **Gravity and Relativity Research Group** at  
-**Beijing Normal University, Zhuhai (BNUZ)** focuses on fundamental problems in gravity,
-gravitational waves, compact objects, and multi-messenger astrophysics.
+The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** focuses on fundamental problems in gravity, gravitational waves, compact objects, and multi-messenger astrophysics.
 
 ## Research Interests
 - Gravitational-wave astronomy
