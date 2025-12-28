@@ -20,9 +20,9 @@ The **Gravity Research Group** at **[Beijing Normal University, Zhuhai (BNUZ)](h
 
 # Group Members
 #### Faculty
-- Prof. **[Zhu Xing-jiang](https://fas.bnu.edu.cn/jyjg/xsgk/wlx1/xsszwl/wlfx1/1494b869ab814b9ca941b54c25dd03fa.htm)**
+- Prof. **[Zhu Xing-jiang](https://fas.bnu.edu.cn/jyjg/xsgk/wlx1/xsszwl/wlfx1/1494b869ab814b9ca941b54c25dd03fa.htm)** ,
   Email: xxx@bnuz.edu.cn
-- Associate Researcher yyy
+- Associate Researcher yyy,
   Email: yyy@bnuz.edu.cn
   
   
