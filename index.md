@@ -5,7 +5,7 @@ title: BNUZ Gravity Research Group
 
 # BNUZ Gravity Group
 
-The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** focuses on fundamental problems in gravity, gravitational waves, compact objects, and multi-messenger astrophysics.
+The **Gravity Research Group** at **[Beijing Normal University, Zhuhai (BNUZ)](https://www.bnuz.edu.cn)** focuses on fundamental problems in gravity, gravitational waves, compact objects, and multi-messenger astrophysics.
 
 # News
 - 2025-12-20: group meeting "cosmology and H0".
@@ -20,7 +20,7 @@ The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** f
 
 # Group Members
 #### Faculty
-- **Prof. Zhu**  
+- **Prof. **[Zhu Xing-jiang](https://fas.bnu.edu.cn/jyjg/xsgk/wlx1/xsszwl/wlfx1/1494b869ab814b9ca941b54c25dd03fa.htm)****  
   Associate Researcher  
   Email: xxx@bnuz.edu.cn
   
@@ -48,7 +48,7 @@ The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** f
 - Neutrinos and transients
 
 # Publications
-1. **Author**, et al. *Title*, Journal **Volume**, Page (Year).[arXiv:xxxx.xxxxx]
+1. **Author**, et al. *Title*, Journal **Volume**, Page (Year).**[arXiv:2507.15701](https://arxiv.org/abs/2507.15701)**
 2. **Author**, et al. *Title*, Journal **Volume**, Page (Year).
 
 ## welcome applications for:
@@ -59,6 +59,6 @@ The **Gravity Research Group** at **Beijing Normal University, Zhuhai (BNUZ)** f
 
 ## Contact
 **BNUZ Gravity Group**  
-- Beijing Normal University, Zhuhai  
-- Our Chinese website: https://zkgyy.bnu.edu.cn/yjjg/ylbyyzxsys/index.htm
+- Beijing Normal University, Zhuhai.
+- Our Chinese website **[here](https://zkgyy.bnu.edu.cn/yjjg/ylbyyzxsys/index.htm)**
 - Email: xxx@bnuz.edu.cn; phone: +86 1xx 
