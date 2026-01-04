@@ -1,7 +1,3 @@
-layout: default
-title: BNUZ Gravity Research Group
----
-
 <a id="group"></a>
 # BNUZ Gravity Group
 
