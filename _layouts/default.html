@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+
+      <!-- 顶部导航栏 -->
+      <nav style="margin-top:20px;">
+        <a class="btn" href="#group">Group</a>
+        <a class="btn" href="#news">News</a>
+        <a class="btn" href="#research">Research</a>
+        <a class="btn" href="#people">People</a>
+        <a class="btn" href="#publications">Publications</a>
+        <a class="btn" href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main class="main-content" role="main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <span class="site-footer-owner">
+        © {{ site.time | date: "%Y" }} {{ site.title }}
+      </span>
+    </footer>
+  </body>
+</html>
