@@ -14,3 +14,6 @@ permalink: /group members/
 
 ## PhD students
 - XXX
+
+## MSc Students
+- XXX (2024–)
