@@ -1,3 +1,8 @@
+title: BNUZ Gravity Group
+#description: Gravitational wave and Pulsar Research at BNUZ.
+#show_downloads: false
+#google_analytics:
+theme: jekyll-theme-cayman
 nav:
   - title: Group
     url: "#group"
@@ -9,8 +14,3 @@ nav:
     url: "#publications"
   - title: Contact
     url: "#contact"
-#title: BNUZ Gravity Group
-#description: Gravitational wave and Pulsar Research at BNUZ.
-#show_downloads: false
-#google_analytics:
-#theme: jekyll-theme-cayman
