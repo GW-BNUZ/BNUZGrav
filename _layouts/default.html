@@ -1,36 +1,53 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title | default: site.title }}</title>
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+
+    <!-- Cayman theme CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+    <!-- Basic SEO -->
+    <meta name="description" content="{{ site.description }}">
   </head>
 
   <body>
+
+    <!-- ===================== -->
+    <!--        Header         -->
+    <!-- ===================== -->
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
 
-      <!-- 顶部导航栏 -->
-      <nav style="margin-top:20px;">
-        <a class="btn" href="#group">Group</a>
-        <a class="btn" href="#news">News</a>
-        <a class="btn" href="#research">Research</a>
-        <a class="btn" href="#people">Group Members</a>
-        <a class="btn" href="#publications">Publications</a>
-        <a class="btn" href="#contact">Contact</a>
+      <!-- Navigation bar -->
+      <nav style="margin-top: 20px;">
+        <a class="btn" href="{{ '/' | relative_url }}">Group</a>
+        <a class="btn" href="{{ '/news/' | relative_url }}">News</a>
+        <a class="btn" href="{{ '/people/' | relative_url }}">People</a>
+        <a class="btn" href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a class="btn" href="{{ '/contact/' | relative_url }}">Contact</a>
       </nav>
     </header>
 
+    <!-- ===================== -->
+    <!--      Main Content     -->
+    <!-- ===================== -->
     <main class="main-content" role="main">
       {{ content }}
     </main>
 
+    <!-- ===================== -->
+    <!--        Footer         -->
+    <!-- ===================== -->
     <footer class="site-footer">
       <span class="site-footer-owner">
-        © {{ site.time | date: "%Y" }} {{ site.title }}
+        © {{ site.time | date: "%Y" }} {{ site.title }}.
+        Powered by Jekyll & Cayman.
       </span>
     </footer>
+
   </body>
 </html>
