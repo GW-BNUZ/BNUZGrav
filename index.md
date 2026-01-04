@@ -10,7 +10,7 @@ The **Gravity Research Group** at **[Beijing Normal University, Zhuhai (BNUZ)](h
 - Multi-messenger astrophysics
 - Tests of gravity and cosmology
 
-<a id="people"></a>
+<a id="Group Members"></a>
 # Group Members
 ## Faculty
 - Prof. **[Zhu Xing-jiang](...)**
