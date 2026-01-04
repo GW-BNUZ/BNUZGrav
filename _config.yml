@@ -6,3 +6,14 @@ theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+nav:
+  - title: Group
+    url: "#group"
+  - title: News
+    url: "#news"
+  - title: People
+    url: "#people"
+  - title: Publications
+    url: "#publications"
+  - title: Contact
+    url: "#contact"
