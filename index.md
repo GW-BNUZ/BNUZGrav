@@ -11,5 +11,5 @@ The **Gravity Research Group** at **[Beijing Normal University, Zhuhai (BNUZ)](h
 
 - PhD and MSc students
 - Postdoctoral researchers
-- Interested candidates should contact:
+- Interested candidates contact:
 -xxx@bnuz.edu.cn
