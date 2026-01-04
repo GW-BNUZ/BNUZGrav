@@ -1,7 +1,7 @@
 ---
 layout: default
-title: People
-permalink: /people/
+title: Group members
+permalink: /group members/
 ---
 
 # Group Members
