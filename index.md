@@ -3,12 +3,6 @@
 
 The **Gravity Research Group** at **[Beijing Normal University, Zhuhai (BNUZ)](https://www.bnuzh.edu.cn/)** focuses on fundamental problems in gravity, gravitational waves, compact objects, and multi-messenger astrophysics.
 
-<a id="news"></a>
-# News
-- 2025-12-20: group meeting "cosmology and H0".
-- 2025: Our group website is officially launched.
-- 2024: New students joined the group.
-
 <a id="research"></a>
 # Research Interests
 - Gravitational-wave astronomy
